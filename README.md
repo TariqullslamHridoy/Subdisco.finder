@@ -1,5 +1,5 @@
-# Subdisco
-Subdisco is a tool designed in java and uses OSINT in order to enumerate subdomains of websites. It helps pen-testers in collecting and gathering subdomains for a domain which is their target
+# Subdisco finder
+Subdisco  finder is a tool designed in java and uses OSINT in order to enumerate subdomains of websites. It helps pen-testers in collecting and gathering subdomains for a domain which is their target
 
 Features:
 
